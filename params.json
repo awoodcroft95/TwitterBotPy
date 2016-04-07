@@ -1,0 +1,6 @@
+{
+  "name": "Twitterbotpy",
+  "tagline": "Code for a blank Twitter Bot written in Python using Twython",
+  "body": "### What is this?\r\nThis is a simple automated twitter bot written in Python using the Twython Library.\r\n\r\n### What does it do?\r\nThis twitter bot will automatically search for tweets from a given criteria, then retweet the tweet(s) from that search. It will also favourite/like the tweet(s) and follow the account it was tweeted from.\r\nIt also will follow all of your followers.\r\n\r\nIt does this once every 20 minutes(can be configured). \r\n\r\n### Authors and Contributors\r\nMe! - @awoodcroft95\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
